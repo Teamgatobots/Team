@@ -16,8 +16,10 @@
 <a href="https://tiktok.com/@saul_ff.mix.bad.boy.yt" target="_blank"> <img src="https://img.shields.io/badge/-TikTok-%23E4405F?style=for-the-badge&logo=tiktok&logoColor=black" target="_blank"></a> <img src="https://github.com/siegrin/siegrin/blob/main/Assets/Handshake.gif" height="30px">
 </a>
 </div
-> <b>🥺 CREADOR OFICIAL 👋></b>
-> <b>🥲SAUL HUILLCA LAYME❤️</b>
+> <b>🥺 CREADOR OFICIAL 👋</b>
+</a>
+</div>
+ ><b>🥲SAUL HUILLCA LAYME❤️</b>
 </a>
 </div>
 <a href="http://wa.me/51930982220" target="blank"><img src="https://img.shields.io/badge/OFC-GATO_BOT-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
