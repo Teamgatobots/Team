@@ -1,0 +1,27 @@
+COMANDO GATO BOT
+
+            termux-setup-storage
+
+            apt update
+
+            pkg upgrade
+
+             pkg install git -y
+ 
+             pkg install nodejs -y
+
+             pkg install ffmpeg -y
+
+             pkg install imagemagick-y
+
+              pkg install yarn
+
+              cd storage/downloads/OFC-YOVANI-HADES-BOT-OMEGA-8eb6d32
+
+cd storage/downloads/elrebelde21-The-LoliBot-MD-09fc5a3
+             
+             npm install
+
+             Is
+
+            npm start
